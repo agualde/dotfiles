@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andres@gualde.com
+	name = Andres Gualde
